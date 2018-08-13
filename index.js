@@ -28,7 +28,7 @@ mixedCase.toLowerCase() === mixedCase // false
 mixedCase.toUpperCase() === mixedCase // false
   if (string = lowercase) {
     string = "I can\'t hear you!";
-  
+
 }
 else {
 string = "YES IN DEED!"
