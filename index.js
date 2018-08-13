@@ -16,8 +16,6 @@ var lowercase = 'hello'
 lowercase.toLowerCase() === lowercase
   if (string = lowercase) {
     'I can't hear you!''
-
-  }
   console.log(string);
-  
+}
 }
