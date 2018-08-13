@@ -28,9 +28,10 @@ mixedCase.toLowerCase() === mixedCase // false
 mixedCase.toUpperCase() === mixedCase // false
   if (string = lowercase) {
     string = "I can\'t hear you!";
-  console.log(string);
+  
 }
 else {
 string = "YES IN DEED!"
 }
+console.log(string);
 }
