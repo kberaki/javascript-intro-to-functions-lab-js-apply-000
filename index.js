@@ -12,13 +12,25 @@ function logWhisper(string) {
   console.log(string.toLowerCase());
 }
 function sayHiToGrandma(string) {
-var lowercase = 'hello'
-lowercase.toLowerCase() === lowercase
-  if (lowercase=true) {
-    "I can\'t hear you!"
+
+var uppercase = "HELLO!"
+
+uppercase.toUpperCase() === uppercase // true
+
+var lowercase = 'hello!'
+
+lowercase.toLowerCase() === lowercase // true
+
+var mixedCase = 'Hi there!'
+
+mixedCase.toLowerCase() === mixedCase // false
+
+mixedCase.toUpperCase() === mixedCase // false
+  if (string = lowercase) {
+    string = "I can\'t hear you!";
   console.log(string);
 }
 else {
-  "YES IN DEED!"
+string = "YES IN DEED!"
 }
 }
