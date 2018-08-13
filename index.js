@@ -19,4 +19,5 @@ lowercase.toLowerCase() === lowercase
   } else {
     "YES INDEED!"
   }
+  console.log(string);
 }
